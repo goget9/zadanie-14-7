@@ -1,3 +1,4 @@
+
 var contacts = [
   {
     id: 1,
@@ -25,8 +26,6 @@ var contactForm = {
   email: ''
 };
 
-import ContactForm from './ContactForm.js'
-
 var App = React.createClass({
   render: function() {
     return (
@@ -37,5 +36,3 @@ var App = React.createClass({
     );
   }
 });
-
-export default App

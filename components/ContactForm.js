@@ -15,5 +15,3 @@ var ContactForm = React.createClass({
     )
   },
 });
-
-export default ContactForm
